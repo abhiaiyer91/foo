@@ -12,6 +12,8 @@ contentfulConfig = {
   host: process.env.GATSBY_CONTENTFUL_HOST
 }
 
+console.log(contentfulConfig, 'CONFIG')
+
 const { spaceId, accessToken } = contentfulConfig
 
 if (!spaceId || !accessToken) {

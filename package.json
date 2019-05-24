@@ -25,7 +25,7 @@
     "contentful-import": "^7.4.0",
     "eslint": "^5.6.1",
     "eslint-plugin-react": "^7.11.1",
-    "gatsby": "^2.7.1",
+    "gatsby": "https://github.com/pieh/gatsby/raw/27e7c9ff72a3230486fc8d6dcbac0cc010319e3d/packages/gatsby/gatsby-2.4.3.tgz",
     "gh-pages": "^2.0.1",
     "inquirer": "^6.2.0",
     "prettier": "^1.14.3",

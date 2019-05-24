@@ -7,9 +7,9 @@ try {
 
 // Overwrite the Contentful config with environment variables if they exist
 contentfulConfig = {
-  spaceId: process.env.GATSBY_CONTENTFUL_SPACE_ID || contentfulConfig.spaceId,
+  spaceId: process.env.CONTENTFUL_SPACE_ID || contentfulConfig.spaceId,
   accessToken: process.env.CONTENTFUL_ACCESS_TOKEN || contentfulConfig.accessToken,
-  host: process.env.GATSBY_CONTENTFUL_HOST
+  host: process.env.CONTENTFUL_HOST
 }
 
 console.log(contentfulConfig, 'CONFIG')

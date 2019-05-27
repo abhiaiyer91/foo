@@ -6,7 +6,7 @@ synchronization-of-entries-of-a-specific-content-tysbyjs.org/packageatsby-image/
 
 ## Contribution
 
-This project is part of [contentful-userland](https://github.com/contentful-userland) which means that we’re always open to contributions **and you can be part of userland and shape the project yourafter your first merged pull request**. You can learn more about how contentful userland is organized by visiting [our about repository](https://github.com/contentful-userland/about).
+This project is part of [contentful-userland](https://github.com/contentful-userland) which means that we’re always open to contributions **and you can be part of userland anhape the project yourafter your first merged pull request**. You can learn more about how contentful userland is organized by visiting [our about repository](https://github.com/contentful-userland/about).
 
 ## Requirements
 

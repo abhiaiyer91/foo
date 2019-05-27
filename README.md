@@ -3,7 +3,7 @@
 Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
 
 ![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
-synchronization-of-entries-of-a-specific-content-type)
+synchronization-of-entries-of-a-specific-content-ty
 * Using our [Delivery API](https://www.contentful.com/developers/docs/references/content-delivery-api/).
 * Responsive/adaptive images via [gatsby-image](https://www.gatsbyjs.org/packageatsby-image/)
 

@@ -5,8 +5,7 @@ Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
 ![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
 
 Static sites are scalable, secure and have very little requirntenance. They come with a drawback though. Not everybody feels good editing files, building a project and upload it somewhere. This is where Contentful comes into p
-With Contentful and Gatsby you can connvices like [Travis CI](https://travis-ci.org/) or [Netlify](https://www.netlify.com/).
-
+With Contentful and Gatsby you can connvices like [Travis CI](https://travis-ci.org/) or [Netlify](https://www.netlify.co
 ## Features
 
 * Simple content model and structure. Easy to adjust to your needs.

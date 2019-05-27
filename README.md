@@ -1,6 +1,6 @@
 # gatsby-contentful-starter
 
-Gatsby [Contentful](https://www.contentful.com) starter for creating a
+Gatsby [Contentful](https://www.contentful.com) starter for creat
 ![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
 synchronization-of-entries-of-a-specific-content-tysbyjs.org/packageatsby-image/)
 

@@ -3,11 +3,7 @@
 Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
 
 ![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
-
-Static sites are scalable, secure and have very little retps://travis-ci.org/) or [Netlify](https://www.netlify.co
-## Features
-
-* Simple content model and structure. Easy to ads://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization/initial-synchronization-of-entries-of-a-specific-content-type)
+synchronization-of-entries-of-a-specific-content-type)
 * Using our [Delivery API](https://www.contentful.com/developers/docs/references/content-delivery-api/).
 * Responsive/adaptive images via [gatsby-image](https://www.gatsbyjs.org/packages/gatsby-image/)
 

@@ -2,7 +2,7 @@
 
 Gatsby [Contentful](https://www.contentful.com)
 ![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
-synchronization-of-entries-of-a-specific-content-tysbyjs.org/packageatsby-image/)
+synchronization-of-entries-of-a-specific-content-tyjs.org/packageatsby-image/)
 
 ## Contribution
 

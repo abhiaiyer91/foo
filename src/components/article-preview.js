@@ -10,6 +10,7 @@ export default ({ article }) => (
     <h3 className={styles.previewTitle}>
       <Link to={`/blog/${article.slug}`}>{article.title}</Link>
     </h3>
+Suh Dude
     <small>{article.publishDate}</small>
     <p
       dangerouslySetInnerHTML={{

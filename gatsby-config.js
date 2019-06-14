@@ -12,8 +12,6 @@ contentfulConfig = {
   host: process.env.CONTENTFUL_HOST
 }
 
-console.log(contentfulConfig, 'CONFIG')
-
 const { spaceId, accessToken } = contentfulConfig
 
 if (!spaceId || !accessToken) {
